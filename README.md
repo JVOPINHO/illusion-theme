@@ -1,6 +1,6 @@
 # Illusion Theme Refined No Italics
 
-A Illusion theme fork, without italics and with small changes in the activity bar color behavior.
+A Illusion-Refined theme fork, without italics and with small changes in the activity bar color behavior.
 
 ## License
 

@@ -1,14 +1,14 @@
 {
-  "name": "illusion-refined",
-  "displayName": "Illusion Refined",
-  "publisher": "rodrigosuelli",
-  "version": "1.0.4",
-  "description": "A Illusion theme fork, without italics and with small changes in the activity bar color behavior.",
+  "name": "jvopinho-illusion",
+  "displayName": "Jvopinho Illusion Refined",
+  "publisher": "JVOPINHO",
+  "version": "0.0.0",
+  "description": "A illusion-refined theme fork, without italics and with small changes in the activity bar color behavior.",
   "maintainers": [
-    "Rodrigo Suélli <rodrigosuelli@gmail.com>"
+    "João Pinho"
   ],
   "engines": {
-    "vscode": "^1.47.0"
+    "vscode": "^1.22.0"
   },
   "categories": [
     "Themes"
@@ -28,7 +28,7 @@
     ]
   },
   "scripts": {
-    "package": "vsce package -o illusion-refined.vsix",
+    "package": "vsce package -o jvopinho-illusion.vsix",
     "vsce-publish": "vsce publish"
   },
   "keywords": [
@@ -40,7 +40,10 @@
     "Purple Theme"
   ],
   "galleryBanner": {
-    "color": "#1E1D22",
+    "color": "#908DFF",
     "theme": "dark"
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }
